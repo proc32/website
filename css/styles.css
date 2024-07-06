@@ -58,8 +58,8 @@ body::before {
     --header-height: 3rem;
     /*========== Colors ==========*/
     /* Change theme color */
-    --hue-color: 202;
-    /*Purple 250 - Green 142 - Blue 202 - Pink 340*/
+    --hue-color: 250;
+    /* A hue of 250 gives a purple tone */
     /* HSL color mode */
     --first-color: hsl(var(--hue-color), 69%, 61%);
     --first-color-second: hsl(var(--hue-color), 69%, 61%);
